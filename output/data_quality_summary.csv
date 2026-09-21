@@ -1,0 +1,12 @@
+metric,value,threshold,status
+required_columns_present,11/11,all,PASS
+feed_row_count,131,n/a (informational),INFO
+duplicate_customer_ids,0,0,PASS
+invalid_or_missing_email,0,0,PASS
+completeness:zip_code,96.2%,>=95.0%,PASS
+completeness:product_category,100.0%,>=95.0%,PASS
+completeness:last_activity_date,100.0%,>=95.0%,PASS
+completeness:engagement_score,100.0%,>=95.0%,PASS
+hashed_email_coverage,58.8% (77/131),>=70.0% (target),FAIL
+matchability: valid email + hash,58.8% (77/131),>=70.0% (target),FAIL
+malformed_zip_present,0,0,PASS

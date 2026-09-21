@@ -1,0 +1,31 @@
+product_id,product_name,category,price,premium_flag
+P001,Lumiere Renewal Serum,Skincare,120.00,1
+P002,Hydra Dew Moisturizer,Skincare,95.00,1
+P003,Vitamin C Brightening Drops,Skincare,88.00,1
+P004,Retinol Night Repair,Skincare,110.00,1
+P005,Peptide Eye Cream,Skincare,76.00,1
+P006,Ceramide Barrier Cream,Skincare,64.00,0
+P007,Gentle Foam Cleanser,Skincare,28.00,0
+P008,Rosewater Toning Mist,Skincare,32.00,0
+P009,Clay Detox Mask,Skincare,42.00,0
+P010,SPF 50 Mineral Sunscreen,Skincare,38.00,0
+P011,AHA Exfoliating Pads,Skincare,48.00,0
+P012,Niacinamide Pore Serum,Skincare,54.00,0
+P013,Velvet Matte Lipstick,Makeup,34.00,0
+P014,Silk Finish Foundation,Makeup,46.00,1
+P015,Lash Lift Mascara,Makeup,29.00,0
+P016,Glow Highlighter Duo,Makeup,39.00,0
+P017,Blush Cloud Stick,Makeup,26.00,0
+P018,Setting Mist Pro,Makeup,31.00,0
+P019,Citrus Bloom Eau de Parfum,Fragrance,130.00,1
+P020,Amber Noir Parfum,Fragrance,145.00,1
+P021,Fresh Linen Body Spray,Fragrance,24.00,0
+P022,Santal Mist,Fragrance,58.00,0
+P023,Travel Perfume Set,Fragrance,45.00,0
+P024,Argan Repair Shampoo,Haircare,27.00,0
+P025,Keratin Smooth Conditioner,Haircare,29.00,0
+P026,Scalp Renewal Scrub,Haircare,36.00,0
+P027,Leave-In Silk Cream,Haircare,33.00,0
+P028,Jade Roller Set,Tools,22.00,0
+P029,LED Light Therapy Mask,Tools,189.00,1
+P030,Microcurrent Facial Device,Tools,249.00,1
