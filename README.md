@@ -1,5 +1,9 @@
 # GlowBeauty Premium Skincare — Customer Data Feed Evaluation
 
+![SQL](https://img.shields.io/badge/SQL-DuckDB%20%2F%20Postgres-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
 > **All data in this repository is synthetic.** Names, emails, addresses, and
 > identifiers were randomly generated for demonstration purposes and do not
 > correspond to real people. This is an independent, simulated case study of a
@@ -27,7 +31,7 @@ data feed:
 ## Repository structure
 
 ```
-klickly-data-feed-evaluation/
+customer-data-feed-evaluation/
 ├── README.md
 ├── data/
 │   ├── customers.csv              # 306 rows (300 unique customers + 6 duplicate rows)
